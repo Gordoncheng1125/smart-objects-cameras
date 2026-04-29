@@ -1,6 +1,6 @@
 # Project: <your project name>
 
-**Student:** <your name>
+**Student:** Gordon
 **Camera used:** orbit / gravity / horizon (delete the ones you didn't use)
 **One-line pitch:** <what your project does, in plain words — no jargon>
 

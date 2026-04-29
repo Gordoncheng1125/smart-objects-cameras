@@ -1,0 +1,9 @@
+# gitleaks config for smart-objects-cameras.
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "README documents a placeholder header value 'pick-any-shared-secret', not a real secret."
+regexes = ['''pick-any-shared-secret''']
+paths = ['''classroom-api/README\.md''']
